@@ -66,6 +66,5 @@ console.log(c);
 console.log("dequeue:")
 c.dequeue();
 console.log(c);
-
 console.log("peek:")
 console.log(c.peek())
